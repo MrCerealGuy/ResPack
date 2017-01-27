@@ -18,3 +18,7 @@ All files in example.lst are now archived in example.pak.
 - Type *tree-extracted.bmp*
 
 Now you find a bitmap file in your directory.
+
+## Compilation under Windows
+
+Open *ResPack.sln* with Microsft Visual Studio.
