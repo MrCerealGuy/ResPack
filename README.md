@@ -21,4 +21,4 @@ Now you find a bitmap file in your directory.
 
 ## Compilation under Windows
 
-Open *ResPack.sln* with Microsft Visual Studio.
+Open *ResPack.sln* with Microsoft Visual Studio.
